@@ -1,3 +1,5 @@
 # Number-Guesser-Game
 
-Javascript 
+HTML 5, Skeleton CSS and Javascript
+
+
